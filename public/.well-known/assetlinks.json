@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.ad_silmiougou_rhema.twa",
+      "sha256_cert_fingerprints": [
+        "1B:3A:A8:DE:B0:3C:B1:21:DA:B2:3D:12:94:7A:E6:9D:F7:06:BC:51:74:90:81:DB:1A:A8:5D:8F:AE:F5:5B:C4",
+        "44:8B:4A:F9:16:8A:38:8D:DD:A4:C5:70:81:DB:6D:57:FA:87:F3:83:05:06:2E:9C:9F:16:9A:55:47:86:D0:BF"
+      ]
+    }
+  }
+]
