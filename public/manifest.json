@@ -1,0 +1,25 @@
+{
+  "name": "Rhema AD Silmiougou - Verset du Jour & Studio Médias",
+  "short_name": "Rhema AD Silmiougou",
+  "description": "Application officielle de versets quotidiens et studio de visuels chrétiens de l'Église des Assemblées de Dieu de Silmiougou, Tanghin.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a1128",
+  "theme_color": "#006ebc",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/logo-ad.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo-ad.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
